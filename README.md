@@ -1,54 +1,43 @@
 ## Hi there 👋
-I'm masfif / diels, a software engineer and cybersecurity enthusiast based in Indonesia.
+I'm masfif / diels, a software engineer and cybersecurity tinkerer based in Indonesia.
 
-I love building systems, breaking them (ethically), and understanding how technology behaves at the lowest level.
-If something sparks my curiosity, I’ll probably spin up a VM, write some code, test it, and push it to GitHub.
+I build things, secure them, test their limits, and break them ethically just to understand how they work.
+If a tech idea pops into my head, chances are I'll spin up a VM, write some scripts, and turn it into a mini project or repo.
 
-My work spans across:
-software engineering, cybersecurity analysis, Linux system & network engineering, database engineering, and applied machine learning.
+My work revolves around:
 
-I enjoy designing secure architectures, optimizing backend logic, automating things with scripts, and experimenting with new stacks.
+Software engineering
 
-My main tech interests revolve around:
+Cybersecurity analysis
 
-🖥️ Software Engineering — backend, APIs, automation
+Linux systems & networking
 
-🔐 Cybersecurity — pentesting labs, network security, threat analysis
+Databases & backend performance
 
-🐧 Linux Systems & Networking — servers, services, shells, infra
+Applied machine learning
 
-🗄️ Databases — MySQL, PostgreSQL, indexing, query optimization
-
-🤖 Applied ML — experimenting with models, data patterns
-
-⚙️ Technology & Tools — open-source, dev environments, devops stuff
+And anything tech-related that sparks curiosity
 
 
-I've built several personal projects and labs, and I’m always exploring new ways to combine code, security, and automation.
+I've created multiple personal labs and projects — some public, many private — and I'm always experimenting with new stacks and tools.
 
-If you want to see how I build things, feel free to browse my repositories or reach out!
+Fun Facts
 
+Terminal > GUI
 
-Fun Facts:
+Love cybersecurity labs & network debugging
 
-- I enjoy trying new tools, distros, and pentesting frameworks
+Enjoy optimizing queries and server configs
 
-- I love exploring system internals and debugging strange bugs
+Curious about everything tech
 
-- I prefer Linux terminals over anything GUI
-
-- Big fan of cybersecurity challenges and CTF-style learning
-
-- I like learning something new every single day
+Always learning something new
 
 
 Hobbies:
 
-💻 Coding experiments
-🛡️ Cybersecurity labs
+💻 Coding & automation
+🛡️ Pentesting practice
+🐧 Linux tinkering
 📚 Tech research
-📡 Linux tinkering
-💡 Building things & solving problems
-
-
-
+💡 Building small tools & systems
