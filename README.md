@@ -6,38 +6,43 @@ If a tech idea pops into my head, chances are I'll spin up a VM, write some scri
 
 My work revolves around:
 
-Software engineering
+- Software engineering
 
-Cybersecurity analysis
+- Cybersecurity analysis
 
-Linux systems & networking
+- Linux systems & networking
 
-Databases & backend performance
+- Databases & backend performance
 
-Applied machine learning
+- Applied machine learning
 
-And anything tech-related that sparks curiosity
+- And anything tech-related that sparks curiosity
 
 
 I've created multiple personal labs and projects — some public, many private — and I'm always experimenting with new stacks and tools.
 
-Fun Facts
 
-Terminal > GUI
+Fun Facts:
 
-Love cybersecurity labs & network debugging
+- Terminal > GUI
 
-Enjoy optimizing queries and server configs
+- Love cybersecurity labs & network debugging
 
-Curious about everything tech
+- Enjoy optimizing queries and server configs
 
-Always learning something new
+- Curious about everything tech
+
+- Always learning something new
 
 
 Hobbies:
 
 💻 Coding & automation
+
 🛡️ Pentesting practice
+
 🐧 Linux tinkering
+
 📚 Tech research
+
 💡 Building small tools & systems
